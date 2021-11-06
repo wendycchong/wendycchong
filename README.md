@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wendycchong at IBM Research.
-- 👀 I’m working on developing Edge AI applications using Edge AI APIs.
+- 👀 I’m working on developing Distributed AI applications using Distributed AI APIs.
 - 🌱 I’m currently learning ...TBD
 - 💞️ I’m looking to collaborate on ...TBD
 - 📫 How to reach me on Linkedin. <linkedin url here>
